@@ -14,7 +14,7 @@ export default function Cards({card,flip,handleChoice}){
                         className="back"
                         src="././public/florida-logo.jpg"/> */}
                     <img 
-                        src={flip ? card.img : "././public/florida-logo.jpg"}
+                        src={flip ? card.img : "././florida-logo.jpg"}
                         onClick={handleClick}
                     />
                   </div>   
