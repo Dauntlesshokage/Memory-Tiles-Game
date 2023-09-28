@@ -1,5 +1,7 @@
 Try the game [here](https://gator-memory-tiles.netlify.app)
 <br>
+Pich to zoon in for mobile devices
+<br>
 **Demo**
 
 
